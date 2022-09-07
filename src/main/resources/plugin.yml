@@ -1,0 +1,8 @@
+main: com.entity999.teams.TeamMain
+name: VoxelGuilds
+author: Entity422
+version: 1.1
+api-version: 1.15
+description: VoxelGuilds
+depend:
+  - VoxelLibs

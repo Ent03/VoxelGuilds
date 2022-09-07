@@ -1,0 +1,493 @@
+PLAYER_OFFLINE: §cPelaaja offline-tilassa.
+WELCOME: '§7Tervetuloa {0}! §e§l(Pelaaja #{1})'
+PLAYER_JOIN: §7[§a+§7] {0}
+PLAYER_LEFT: §7[-] {0}
+INV_FULL: §cTavaraluottelosi on täynnä!
+TELEPORT: §7Teleportataan §x§0§0§a§f§f§6{0} sekunnin kuluttua§7. Älä liiku.
+MOB_KILL_REWARD: §x§0§0§a§f§f§6§l(!) §x§d§2§d§2§d§2Sait §a${0}!
+HARVEST_REWARD: §x§0§0§a§f§f§6§l(!) §x§d§2§d§2§d§2Sait §a${0}!
+ORE_MINE_REWARD: §x§0§0§a§f§f§6§l(!) §x§d§2§d§2§d§2Sait §a${0}!
+FISH_REWARD: §x§0§0§a§f§f§6§l(!) §x§d§2§d§2§d§2Sait §a${0}!
+GUARD_TIME_END: §7Uuden pelaajan suojasi on nyt päättynyt.
+GUARD_TIME_INFO: §7Sinun pelin aikasi on asetettu päiväksi, se synkronoituu palvelimen
+  ajan kanssa 10 minuutin kuluttua. Voit ohittaa tämän kirjoittamalla §b/synctime§7.
+NPC_DIALOGUE_NEXT: §7Seuraava » Napsauta!
+EVENT_ANNOUNCE_DISCORD: '%s alkaa {0} minuutin kuluttua!'
+PICKUP_REWARD_NUGGET: §7Löysit §a{0}!
+CANT_JOIN_HCWORLD: §cEt voi liittyä hardcore maailmaan tällä hetkellä.
+HCWORLD_DEATH: §c§lVoit liittyä takaisin HC maailmaan maksamalla §a§l$500k§c§l (§7§l/buyhcpass§c)
+NO_FUNDS: §cRiittämättömät varat.
+PRICE: Hinta
+BUY_PRICE: Ostohinta
+SELL_PRICE: Myyntihinta
+LEFT_CLICK_TO_PURCHASE: Osta napsauttmalla hiiren vasenta painiketta!
+MONEY_DEPOSIT: §a{0} §7on lisätty tilillesi.
+MONEY_WITHDRAW: §a{0} §7on otettu tililtäsi.
+AUCTION_HOUSE: Huutokauppa
+NO_LONGER_FOR_SALE: §cTämä esine ei ole enää esillä.
+AUCTION_SELL: §a{0} osti sinun §f{1}!
+AUCTION_BUYER: Ostaja
+AUCTION_SELLER: Myyjä
+CURRENT_LISTINGS: §aSinun listauksesi
+CURRENT_LISTINGS_INFO: §7Napsauta nähdäksesi sinun esillä olevat listauksesi.
+CLAIM_ITEMS: §aLunasta esineesi
+CLAIM_ITEMS_INFO: §7Sinun vanhentuneet ja peruutetut listauksesi voidaan lunastaa
+  täältä.
+PURCHASE_HISTORY: §aOstohistoria
+PURCHASE_HISTORY_INFO: §7Napsauta nähdäksesi ostohistoriasi.
+SELL_HISTORY: §aMyyntihistoria
+SELL_HISTORY_INFO: §7Napsauta nähdäksesi myyntihistoriasi
+AUCTION_TIP: §bKuinka myydä?
+AUCTION_USAGE: §7Myy esine pitämällä sitä kädessäsi ja kirjoittamalla §b/ah sell <price>
+AUCTION_GUI_TITLE: Ostamassa {0}
+GUI_PAGE_INFO: §r (Sivu {0}/{1})
+GO_BACK_BUTTON: §cTakaisin
+EXIT: §cSulje
+NEXT_BUTTON: §aSeuraava sivu
+PREV_BUTTON: §cEdellinen sivu
+JOIN_CLAN_FIRST: §cLiity tai luo tiimi ensin!
+LEAVE_CLAN_FIRST: §cLähde sinun nykyisestä tiimistäsi ensin!
+PLAYER_NOT_ON_CLAN: §cTämä pelaaja ei ole tiimissäsi
+CLAN_NOT_EXIST: §cTiimiä ei ole olemassa!
+CLAN_CREATED: §aTiimi §b{0}§a luotu!
+CLAN_ALREADY_EXISTS: §cTämänniminen tiimi on jo olemassa.
+TARGET_CLAN_NOT_EXIST: §cKohde tiimiä ei ole olemassa!
+TARGET_CLAN_OWN_TEAM: §cKohde tiimi ei voi olla oma tiimisi.
+CLAN_NO_ALLY_REQUEST: §cSinun tiimilläsi ei ole yhtään liittoumapyyntöjä.
+CLAN_MAX_CHARS: §cTiimin nimesi ei voi olla pidempi kuin {0} merkkiä.
+CLAN_MIN_CHARS: §cTiimin nimesi tulee olla vähintään {0} merkkiä pitkä.
+INVALID_CLAN_NAME: §cTiimin nimesi voi ainoastaan sisältää kirjaimia A-Z ja numeroita
+  0-9 sekä alaviivoja.
+PLAYER_JOINED_CLAN: §a{0}§f liittyi tiimiin!
+PLAYER_KICKED_FROM_CLAN: §e{0}§c potkittiin tiimistäsi.
+CLAN_BASE_NOT_SET: §cSinun tiimin tukikohtaa ei ole asetettu vielä! Kirjoita §7/c
+  setbase§c asettaaksesi sen.
+CLAN_NO_PERMISSION: §cEi valtuuksia. Kysy tiimin johtajaltasi ylennystä.
+CLAN_OWNER_ONLY_COMMAND: §cVain tiimin johtaja voi käyttää tätä komentoa.
+CLAN_NO_VILLAGE_CREATED: §cTiimisi ei ole vielä luonut kylää!
+CLAN_VILLAGE_NO_USE_PERM: §cTarvitset luvan §e{0}§c käyttääksesi tätä komentoa.
+CLAN_VILLAGE_NO_PVP: §cPvP ei ole käytössä tiimin §e{0}§c kylän sisällä.
+CLAN_VILLAGE_NO_BUILD: §cEt voi rakentaa tiimin §e{0}§c kylän sisällä.
+CLAN_VILLAGE_NO_OPEN: §cEt voi avata säiliöitä tiimin §e{0}§c kylän sisällä.
+CLAN_VILLAGE_BELONGS: §cTämä kuuluu tiimin §e{0}§c kylälle.
+CRATES: Arkut
+CRATE_NOT_FOUND: §cTätä arkkua ei löydy
+CRATE_RARITY_LORE: '§7▎ Harvinaisuus: {0}'
+CRATE_NO_KEYS_LORE: §7Hanki niitä äänestämällä! §b/vote
+CRATE_PREVIEW_CRATE_TITLE: '{0} arkun sisältö'
+CRATE_PREVIEW_GUI_TITLE: Tarkastele arkkuja
+CRATE_PREVIEW_LORE: §7▎ §7Napsauta nähdäksesi arkun sisällön
+CRATE_OPEN_MESSAGE: Avataan {0} arkku
+CRATE_EMPTY: §4Tässä arkussa ei ole tavaroita. Ota yhteyttä järjestelmänvalvojaan.
+CRATE_LORE: '/n§7▎ §aVoit avata tämän arkun!/n§7▎ §7Avaimia jäljellä: {0} /n§7▎ §eNapsauta
+  hiiren oikealla/n§enähdäksesi arkun sisällön'
+CRATE_NO_KEYS: §cSinulla ei ole yhtään avaimia!
+CRATE_ANNOUNCE_RARE_FIND: '{0} löysi {1}x {2} §e{3}!'
+CRATE_FOUND_ITEM: Löysit {0}x {1} §e{2}!
+CRATE_RECEIVE_KEYS: §7Sait §a{0} {1} §7arkun avainta!
+CRATE_RIGHT_CLICK_TO_OPEN: ''
+VAULTS: §aHolvit
+VAULT_NOT_FOUND: §cHolvia ei löydy.
+VAULT_ALREADY_EXISTS: §cSinulla on jo holvi tällä nimellä!
+VAULT_CREATED: §7Holvi §a{0}§7 luotu! Avaa holvi kirjoittamalla §e/pv open {1}
+BANKNOTE: §a§lSeteli
+BANKNOTES: §aSetelit
+BANKNOTE_LORE: '§7Arvo: §a{0}/n§7Luonut: §b{1}/n§7Vanhenee: §b{2}/n/n§7Lunasta seteli
+  pitämällä sitä kädessäsi/nja§7 paina hiiren oikeaa painiketta.'
+BANKNOTE_CREATED: §aSeteli luotu!
+BANKNOTE_REDEEM: §a{0}§7 Seteli lunastettu!
+TELEPORT_CANCELLED: §cTeleportaatio peruutettu.
+ARGUMENT_INVALID_CHARS: §cArgumentti §e'{0}'§c sisältää sallimattomia merkkejä.
+ARGUMENT_MAX_CHARS: §cArgumentti §e'{0}' on liian pitkä! ({1} merkkiä, Maksimi {2}
+  merkkiä)
+MONEY_AMOUNT_TOO_LARGE: §cSumma, jonka syötit on liian suuri! (Maksimi = §a{0})
+MONEY_AMOUNT_TOO_SMALL: §cSumma, jonka syötit on liian pieni! (Minimi = §a{0})
+WARPS: Varpit
+PLAYER_WARP: Pelaajawarppi
+PLAYER_WARPS: Pelaajawarpit
+PLAYER_WARP_NOT_FOUND: §cTämän nimistä warppia ei löytynyt.
+PLAYER_WARP_CONFIRM: §7Warpin luominen maksaa §a{0}. Kirjoita §b/pwarp create {1}
+  confirm §7vahvistaaksesi tämän.
+PLAYER_WARPS_MAX_REACHED: §cSinulla voi olla vain §e{0}§c Warppi(a)!
+PLAYER_WARP_ALREADY_EXISTS: §cTämän niminen Warppi on jo olemassa!
+PLAYER_WARP_CREATED: §aWarppi luotu!
+PLAYER_WARP_DELETED: §cWarppi poistettu!
+PLAYER_WARP_LORE: '§7▎ Luonut: §b{0}/n§7▎ Sijainti: X:{1},Y:{2},Z:{3}, §b{4}/n§7▎ Käyntejä: §b{5}/n§aTeleporttaa napsauttamalla!'
+PLAYER_WARP_GUI_INFO: §7Napsauta nähdäksesi pelaajien luomat Warpit!
+PLAYER_WARP_FEATURED_NAME: §7§o(Suosittu) §e§o{0}
+SERVER_WARPS: Palvelimen Warpit
+SERVER_WARP_LORE: §7Teleporttaa napsauttmalla!
+SERVER_WARP_GUI_INFO: §7Napsauta nähdäksesi palvelimen luomat Warpit!
+INV_FULL_DROPPING_ITEM: §cTavaraluottelosi on täynnä! Esine on pudotettu maahan.
+TRUE_WORD: Kyllä
+FALSE_WORD: Ei
+NO_PERMISSION: §cEi valtuuksia
+BALANCE: 'Rahaa: §a{0}'
+CLAN: Tiimi {0}
+CLANS: Tiimit
+ACTIVE_CLANS: Aktiiviset tiimit
+CLANS_ALLIED: §7Tiimisi ja Tiimi §b{0}§f ovat nyt liittolaisia!
+CLANS_LIST_LORE: '§7§n________________/n/n§7Rankki: {0}/n§7Jäsenet: §b{1}/n§7Level:
+  §e{2}/n§7Kuka tahansa voi liittyä: {3}/n/n{4}/n/n§7Näe lisätietoja napsauttamalla/n§7§n________________'
+CLAN_SPECTATE_NO_REQUEST: §cTämä pelaaja ei ole lähettänyt sinulle katselupyyntöä.
+CLAN_NOW_SPECTATING_INFORM: §a{0}§7 katselee nyt sinun peliäsi.
+CLAN_NOW_SPECTATING_PLAYER: Katselet nyt pelaajan {0}§7 peliä.
+CLAN_NOW_SPECTATE_ENTER_TITLE: §bKatselutila
+CLAN_NOW_SPECTATE_ENTER_SUBTITLE: §7§oLopeta menemällä kyykkyyn.
+REPORTS: §cIlmoitukset
+REPORT_CLAIM_REWARDS: §a§nLunasta sinun palkintosi kirjoittamalla §b/rewards
+REPORT_LINKS: "§c§lKirjoita 'exit' poistuaksesi. \n§e§lLinkin pitää alkaa 'http://'\
+  \ tai 'https://'\n  §bHyväksytyt linkit:\n§7- https://imgur.com/\n§7- https://discord.com/\n\
+  §7- https://youtube.com/\n§7- https://gyazo.com/"
+CLAN_LEADERBOARDS: §2Tiimi tulostaulut (Top 50)
+CLAN_RANK: '§2Sinun tiimisi rankki: §0{0}'
+CLAN_ALREADY_ALLIED: §aSinun tiimisi on jo liittounut tämän tiimin kanssa.
+CLAN_ALLIANCE_REQUEST_INFORM: §b{0} §flähetti liittoutumispyynnön tiimille §e{1}
+CLAN_ALLIANCE_REQUEST_INFO: §fTiimi §b{0} §f haluaa liittoutua sinun tiimisi kanssa.
+  Voitte hyväksyä liittouman kirjoittamalla §b/allyaccept {1}§f.
+CLAN_ALLY_REQ_TIMEOUT: §c{0} ei hyväksynyt liittoumaa ajoissa.
+CLAN_BANK_MAX_REACHED: §cTiimisi pankki ei voi pitää näin paljon kolikoita! Maksimimäärä
+  on tällä hetkellä {0}
+CLAN_BANK_NOT_ENOUGH_COINS: §cSinulla ei ole riittävästi kolikoita! (Koitit tallettaa
+  {0}, mutta sinulla on vain {1})
+CLAN_BANK_DEPOSIT: §e{0}§6 talletti §7{1} §6kolikkoa
+CLAN_BANK_NOT_ENOUGH_COINS_IN_BANK: §cTiimilläsi ei ole riittävästi kolikoita!
+CLAN_BANK_WITHDRAW: §e{0} nosti §7{1} §6kolikkoa pankista.
+CLAN_BANK_EXCESS_COINS: §c{0} kolikkoa ei mahtunut tavaraluotteloosi.
+CLAN_BANNER_INVALID_NBT_VERSION: §cTämä NBT-koodi ei ole versioille 1.13+
+CLAN_BANNER_INVALID_ITEM: §cEsineen on oltava viiri.
+CLAN_BANNER_INVALID_NBT: §cTämä viiri sisältää sallimattomia NBT tunnisteita.
+CLAN_BANNER_OF: §7Tiimin §b{0}§7 viiri
+CLAN_BANNER_UNKNOWN_NBT_ERROR: §cNBT-koodissasi oli virhe.
+CLAN_BANNER_UPDATED: §aViiri päivitetty!
+CMD_COOLDOWN: §cEt voi käyttää komentoa vielä §e{0} sekuntiin
+CLAN_BANNER_RESET: §aViiri palautettu normaaliksi
+MESSAGE_NOT_FOUND: §4Viestiä ei löytynyt.
+CLAN_PUBLICITY_CHANGED: §aTiimin julkisuus on nyt {0}
+CLAN_GLOW_ON: '§7Tiimiläisten hohto: §aPäällä'
+CLAN_GLOW_OFF: '§7Tiimiläisten hohto: §cPois päältä'
+CLAN_ENABLE_FF_GUI_NAME: §cAseta ystävällinen tuli päälle
+CLAN_DISABLE_FF_GUI_NAME: §aAseta ystävällinen tuli pois päältä
+CLAN_TOGGLE_CHAT_GUI_NAME: §bAseta Tiimichat päälle tai pois
+CLAN_ENABLE_FF_GUI_LORE: §7Aseta ystävällinen tuli päälle napsauttamalla/n§7(Koko
+  tiimin laajuinen asetus)
+CLAN_DISABLE_FF_GUI_LORE: §7Aseta ystävällinen tuli pois päältä napsauttamalla/n§7(Koko
+  tiimin laajuinen asetus)
+CLAN_TOGGLE_CHAT_GUI_LORE: §7Aseta Tiimichat päälle tai pois napsauttamalla/n§7(Vain
+  pelaajan asetus)
+CLAN_ENABLE_GLOW_GUI_NAME: §bAseta tiimiläisesi hohtamaan
+CLAN_ENABLE_GLOW_GUI_LORE: §7Aseta tiimiläisesi hohtamaan napsauttamalla/n§7(Vain
+  pelaajan asetus)
+CLAN_KICK_PLAYER_GUI_NAME: §4Potki pelaaja
+CLAN_DEMOTE_PLAYER_GUI_NAME: §cAlenna pelaaja
+CLAN_PROMOTE_PLAYER_GUI_NAME: §aYlennä pelaaja
+CLAN_SPECTATE_PLAYER_GUI_NAME: §bKatsele pelaajaa
+CLAN_KICK_PLAYER_GUI_LORE: §7Potki pelaaja napsauttamalla
+CLAN_DEMOTE_PLAYER_GUI_LORE: §7Alenna pelaaja napsauttamalla
+CLAN_PROMOTE_PLAYER_GUI_LORE: §7Ylennä palaja napsauttamalla
+CLAN_SPECTATE_PLAYER_GUI_LORE: §7Katsele pelaajaa napsauttamalla
+CLAN_MEMBERS: Jäsenet
+CLAN_LEADER: §cTiimin Johtaja
+CLAN_MANAGER: §dTiimin Manageri
+CLAN_MEMBER: §7Tiimin Jäsen
+CLAN_PERMISSIONS_LORE: '/n§eValtuukset: /n§7- §b{0}'
+CLAN_MEMBERS_GUI_LORE: §7Napsauta nähdäksesi tiimin jäsenet
+CLAN_SETTINGS: §bTiimin asetukset
+CLAN_SETTINGS_GUI_LORE: §7Muuta asetuksia napsauttamalla
+CLAN_WEALTH_GUI_NAME: '§7Varallisuus: §a${0}'
+CLAN_WEALTH_GUI_LORE: §7Jäsenien varat yhteensä
+CLAN_RANK_GUI_NAME: '§7Rankki: §b{0}'
+CLAN_RANK_GUI_LORE: §7Rankki määräytyy tiimin vaurallisuuden perusteella
+CLAN_JOIN_GUI_NAME: §aLiityy Tiimiin
+CLAN_JOIN_GUI_LORE: §7Liity napsauttamalla
+CLAN_INFO: Tiimin tietoja
+CLAN_CANT_INVITE_SELF: §cEt voi kutsua itseäsi tiimiin!
+CLAN_INVITE_MSG_LINE1: '§7Sinut on kutsuttu tiimiin {0}§7. §7Voit napsauttaa '
+CLAN_INVITE_MSG_LINE2: §7tai kirjoittaa §b/c join {0} §7liittyäksesi.
+CLAN_INVITE_CLICK_TO_JOIN: Liity napsauttamalla
+CLAN_INVITE_JOIN_LINK: /clan join {0}
+CLAN_PLAYER_INVITED: §7Pelaaja kutsuttu!
+CLAN_PLAYER_NOT_INVITED: §cSinua ei ole kutsuttu tähän tiimiin.
+CLAN_PLAYER_JOINED_MSG: Liityit tiimiin §b{0}§f!
+CLAN_CANT_KICK_SELF: §cEt voi potkia itseäsi!
+CLAN_CANT_KICK_MANAGER: Et voi potkia manageria!
+CLAN_PLAYER_KICKED_MSG: §c§lSinut potkittiin tiimistäsi.
+CLAN_DISBANDED: §cTiimi hajotettu.
+CLAN_DISBAND_WARNING: §cTämä tiimi hajotetaan sen jälkeen kun lähdet, vahvista tämä
+  kirjoittamalla §b/c leave confirm
+CLAN_MUST_TRANSFER_OWNERSHIP: §cSinun täytyy siirtää omistajuutesi ennen kuin lähdet!
+  §e/c setleader
+CLAN_LEFT_CLAN: §cPoistuit tiimistäsi.
+CLAN_CANT_DEMOTE_SELF: Et voi alentaa itseäsi!
+CLAN_MEMBER_DEMOTED: §cJäsen {0} alennettu!
+CLAN_MEMBER_DEMOTED_MSG: §cSinut alennettiin.
+CLAN_CANT_PROMOTE_SELF: Et voi ylentää itseäsi!
+CLAN_ALREADY_PROMOTED: §cTämä pelaaja on jo manageri tiimissäsi!
+CLAN_MEMBER_PROMOTED: Jäsen {0} ylennetty!
+CLAN_MEMBER_PROMOTED_MSG: §aSinut ylennettiin manageriksi!
+CLAN_NOT_ALLIED: §cEtte ole liittolaisia tämän tiimin kanssa.
+CLAN_NO_LONGER_ALLIED: §cSinun tiimisi ei ole enää liittounut tiimin §b{0} §c kanssa.
+CLAN_BASE_SET_LINE1: '§e{0}§7 on asettanut tukikohdan! §7Voit napsauttaa '
+CLICK_HERE: '§e§ntästä§r '
+CLAN_BASE_SET_LINE2: §7tai kirjoittaa §b/tb teleporttaaksesi!
+CLAN_BASE_SET_LINE3: §7Teleporttaa napsauttamalla
+CLAN_BASE_SET_LINK: /tb
+PLAYER_NOT_JOINED: §cPelaaja ei ole koskaan pelannut palvelimella!
+CLAN_PLAYER_SET_AS_OWNER: §7Pelaaja §e{0}§7 asetettu tiimin johtajaksi.
+CLAN_PLAYER_SET_AS_OWNER_MSG: §a§lOlet nyt tiimisi johtaja!
+CLAN_CANT_SPECTATE_SELF: Et voi katsella omaa peliäsi.
+CLAN_PLAYER_ALREADY_SPECTATING: §cPelaaja katsoo tällä hetkellä toisen peliä.
+CLAN_SPECTATE_REQUEST_SENT: §fKatsomispyyntö lähetetty!
+CLAN_PLAYER_RECEIVE_SPEC_REQ_LINE1: '§b{0} §fhaluaa katsella peliäsi. Salli tämä napsauttamalla '
+CLAN_PLAYER_RECEIVE_SPEC_REQ_LINE2: §ftai kirjoittamalla §b/spaccept {0}.
+CLAN_PLAYER_RECEIVE_SPEC_REQ_LINE3: Hyväksy napsauttamalla
+CLAN_PLAYER_RECEIVE_SPEC_REQ_LINK: /spaccept {0}
+CLAN_FEATURE_NOT_UNLOCKED: §cTiimisi ei ole riittävän korkean tasoinen käyttääksesi
+  tätä komentoa.
+CLAN_FF_ON: ' on asettanut §c§nystävällisen tulen §c§lPäälle'
+CLAN_FF_OFF: ' on asettanut §c§nystävällisen tulen §a§lPois päältä'
+CLAN_ALLY_HAS_TOGGLED_FF: §cSinun liitolaisesi §e{0}§con asettanut ystävällisen tulen
+  {1}
+CLAN_CHAT_ON: '§7Tiimichat: §aOn'
+CLAN_CHAT_OFF: '§7Tiimichat: §cOff'
+CLAN_SIDEBAR: ' Tiimi: '
+LEVEL_SIDEBAR: ' Taso: '
+BALANCE_SIDEBAR: ' Rahatilanne: '
+RANK_SIDEBAR: ' Rankki: '
+EVENT_SIDEBAR: ' Tapahtuma: '
+PLAYERS_SIDEBAR: ' Pelaajia: '
+SERVER_SIDEBAR: Palvelin
+DISABLE_SIDEBAR_TIP: §bPoista käytöstä kirjoittamalla §b/sidebar
+REPORT_SELECT_ONE: §cValitse vähintään yksi vaihtoehto.
+REPORT_SUCCESS: §4Ilmoitit pelaajan §e{0} §4syystä §c{1}§4. Ilmoituksesi käydään läpi
+  pian.
+UNCLAIMED_REWARDS_LINE1: '§aSinulla on lunastamattomia palkintoja! §fLunasta ne napsauttamalla '
+UNCLAIMED_REWARDS_LINE2: §ftai kirjoittamalla §e/rewards
+UNCLAIMED_REWARDS_LINE3: Avaa palkinnot
+REWARDS_LINK: /rewards
+REWARDS_RECEIVE_LINE1: '§aSait päivittäisiä palkintoja! {0} §fLunasta ne napsauttamalla '
+REWARDS_RECEIVE_LINE2: §ftai kirjoittamalla §e/rewards.
+REWARDS_RECEIVE_LINE3: Avaa palkinnot
+EVENT_KEYDROP_FINISH: Jokainen sai Arkku-setelin!
+EVENT_KEYDROP_RECEIVE_LINE1: §aSait satunnaisen avaimen arkkuun! Napsauta
+EVENT_KEYDROP_RECEIVE_LINE2: §ftai kirjoittamalla §e/rewards
+EVENT_KEYDROP_RECEIVE_LINE3: Avaa palkinnot
+EVENT_KEYDROP: Key Drop
+EVENT_MCMMOBOOST: +50% mcMMO XP Boost"
+EVENT_GENERAL_START: ' tapahtuma on alkanut!'
+EVENT_GENERAL_END: ' tapahtuma on päättynyt.'
+EVENT_MCQUIZ: Minecraft Tietovisa
+EVENT_MCQUIZ_SHORT: MC Tietovisa
+EVENT_MCQUIZ_CORRECT_ANSWER: '{0} tiesi oikean vastauksen §e{1}§f sekunnissa! Oikea
+  vastaus oli §b{2}'
+EVENT_MCQUIZ_START: Minecraft Tietovisa on alkanut! Ensimmäinen, joka tietää vastauksen
+  voittaa §a${0}§f!
+EVENT_MCQUIZ_TIMEOUT: §cKukaan ei tiennyt vastausta ajoissa.
+EVENT_MCQUIZ_Q_SIDEBAR: 'K: '
+EVENT_TREASUREHUNT: Aarrejahti
+EVENT_TREASUREHUNT_CHESTS: Aarrearkut
+EVENT_TREASUREHUNT_CHEST: Aarrearkku
+EVENT_TREASUREHUNT_TIME_INFO: Aarrejahti päättyy {0} minuutin kuluttua.
+EVENT_TREASUREHUNT_LAST_CHEST: §b§l{0} §a§llöysi viimeisen aarrearkun!
+EVENT_TREASUREHUNT_FOUND_CHEST: §b{0} §elöysi aarrearkun! §b{1}§e jäljellä!
+SERVER_MAP_LINK: map.thalassicmc.com
+EVENT_TREASUREHUNT_END: §cAarrejahti on päättynyt.
+EVENT_TREASUREHUNT_START: §c§lAarrejahti on alkanut! §fMene osoitteseen §b{0} §fja
+  etsi kartalta aarrearkkuja!
+EVENT_UNSCRAMBLE: Selvitä sana
+EVENT_UNSCRAMBLE_SHORT: Selvitä sana
+EVENT_UNSCRAMBLE_GUESS: '{0} selvitti sanan §e{1} §fsekunnissa! Sana oli §b{2}'
+EVENT_UNSCRAMBLE_WRONG: §cVäärä sana!
+EVENT_UNSCRAMBLE_START: Ensimmäinen, joka selvittää sanan §b{0}§f voittaa §a$%d!
+EVENT_UNSCRAMBLE_TIMEOUT: Kukaan ei arvannut sanaa ajoissa. Sana oli §b{0}
+EVENT_UNSCRAMBLE_INFO: 'Sana: §b{0}'
+EVENT_XPBOOST: +50% XP Boost
+EVENT_XPBOOST_INFO: ' Päättyy: {0}:{1}'
+EVENT_STARTS_IN: ' alkaa §b{0}§f minuutin kuluttua!'
+EVENT_ENDS_IN: ' §7päättyy §e{0} §7minutin kuluttua.'
+EVENT_STARTS_IN_INFO: 'Alkaa: {0}'
+RANKS: §aRankit
+RANK_MAX_LEVEL_REACHED: §aOlet saavuttanut viimeisen ilmaisen rankin. Seuraavan rankin
+  voit ostaa kaupastamme! §b/store§a.
+RANK_NEED_VOTES_AND_LEVELS: §cTarvitset §7{0} §c äänestyspistettä ja §7{1} §cmcMMO
+  tasoa lisää seuraavalle rankille ({2}§c)
+RANK_NEED_ONLY_VOTES: §cTarvitset §7{0} §cäänestyspistettä lisää seuraavalle rankille
+  ({1}§c)
+RANK_NEED_ONLY_LEVELS: §cYou need §7{0} §cmcMMO tasoa lisää seuraavalle rankille ({1}§c)
+RANK_UP: §aKorkeampi rankki!
+RANK_UP_REWARDS: '§aSinun palkintosi: {0}'
+TELEPORTING_IN: Teleportataan §6{0} sekunnin kuluttua
+SHOP_ADD1: §aLisää 1
+SHOP_DEL1: §cPoista 1
+SHOP_DEL16: §cPoista 16
+SHOP_ADD16: §aLisää 16
+SHOP_PRICE_LORE: '§7▎ §eHinta: §a{0}'
+PSHOP_STOCK_LORE: '§7▎ Jäljellä varastossa: §b{0}'
+SHOP_CLICK_TO_PURCHASE: §7Osta napsauttamalla!
+PSHOP_BUY_MSG: Ostit {0}x {1} §rpelaajalta §e{2}§r hintaan §a{3}
+PSHOP_SELL_MSG: §e{0} §6osti §e{1}x {2} §6sinulta hintaan §a{3}
+PSHOP_OUT_OF_STOCK: §cKaupan varasto on tyhjä.
+PSHOP_MANAGE: Hallitse kauppaasi
+PSHOP_MANAGE_ADD_ITEMS: §bLisää esineitä varastoon
+PSHOP_MANAGE_ADD_ITEMS_LORE: §7Lisää esineitä varastoon napsauttamalla
+PSHOP_MANAGE_SET_PRICES: §bAseta myynti- ja ostohinta
+PSHOP_MANAGE_SET_PRICES_LORE: §7▎ Aseta myynti- ja ostohinta/n§7▎ §bJätä rivi tyhjäksi,
+  jos et halua asettaa hintaa.
+PSHOP_MANAGE_REGISTER: §bKassa
+PSHOP_MANAGE_REGISTER_LORE: '§7▎ §6Kassassa: §a{0}/n§7▎ Hiiren vasen painike: Talleta
+  rahaa/n§7▎ Hiiren oikea painike: Nosta rahaa'
+PSHOP_MANAGE_REMOVE_SHOP: §cPoista kauppa
+PSHOP_MANAGE_REMOVE_SHOP_LORE: §7Poista kauppa napsauttamalla
+PSHOP_MANAGE_ROTATE_ITEM: §bKäännä esinettä
+PSHOP_MANAGE_ROTATE_ITEM_LORE: §7Käännä esillä olevaa esinettä napsauttamalla
+PSHOP_MANAGE_SET_CASH_LIMIT: §bAseta rahanottoraja
+PSHOP_MANAGE_SET_CASH_LIMIT_LORE: '§7▎ §6Nykyinen raja: §a{0}/n§7Aseta rahanottoraja
+  napsauttamalla./n§7Tämä on etenkin hyödyllinen §b/pshop withdrawall §7komentoa varten.'
+PSHOP_MANAGE_STOCK_SAVED: §aVarasto päivitetty.
+PSHOP_MANAGE_FILL_STOCK: Lisää tavaroita varastoon
+PSHOP_BUY_ITEM_TITLE: Osta tämä esine
+PSHOP_MANAGE_STOCK_FULL: §cKaupan varasto on täynnä.
+PSHOP_SELL_ITEM_TITLE: Myy esineitä
+DEPOSIT_WORD: Talleta
+WITHDRAW_WORD: Nosta
+TYPE_HERE: Kirjoita tähän
+ARG_NOT_NUMBER: §cMäärä, jonka syötit ei ole numero.
+ARG_CANT_BE_NEGATIVE: §cMäärä ei voi olla negatiivinen.
+PSHOP_REGISTER_CASH_AMOUNT: '§6Kaupan kassassa: {0}'
+PSHOP_CASH_LIMIT_EDITOR_LINE1: 'Raja: {0}'
+PSHOP_LIMIT_UPDATED: §aRaja päivitetty!
+PSHOP_PRICES_UPDATED: §aHinnat päivitetty!
+PSHOP_MANAGE_TITLE: §aHallitse kauppaa
+PSHOP_MANAGE_TITLE_LORE: §7Hallitse kauppaa napsauttamalla
+SHOP_CLICK_TO_SELL: §7Myy napsauttamalla
+PSHOP_DEL_CONFIRM: §cPoista kauppasi kirjoittamalla §b/pshop delete {0}§c.
+PSHOP_STAND_NAME: §ePelaajan §b§o{0} §eKauppa
+PSHOP_EMPTY_STOCK_FIRST: §cOle hyvä ja tyhjennä kauppasi varasto ennen kuin jatkat.
+PSHOP_CASH_REG_DEPOSITED: §6Kaupan kassassa ollut raha on talletettu tilillesi.
+PSHOP_DELETED: §cKauppa poistettu.
+PSHOP_OUT_OF_STOCK_STAND_NAME: §c§l§oLOPPU VARASTOSTA
+PSHOP_STAND_BUY_NAME: '§f§l§oOSTA: §a{0}'
+PSHOP_STAND_SELL_NAME: '§f§l§oMYY: §a{0}'
+PSHOP_STAND_BUY_SELL_NAME: '§f§l§oOSTA: §a{0}§7, §f§l§oMYY: §a{1}'
+SHOP_SELL_ALL: §e§lMyy kaikki
+PSHOP_CASH_LEFT_IN_SHOP: '§7▎ §6Kaupan Kassa: §a{0}'
+PSHOP_NO_FUNDS: §cKaupalla ei ole riittävästi rahaa ostaakseen tavaraasi.
+SHOP_PLAYER_NO_ITEMS: §cSinulla ei ole riitävästi esineitä myytäväksi.
+PSHOP_SELL_TO_PLAYER: §6Myit {0}x {1} pelaajalle §b{2} §6hintaan §a{3}
+PSHOP_BUY_FROM_PLAYER: §e{0} §6myi sinulle §e{1}x {2} hintaan §a{3}
+PSHOPS: §aPelaajien Kaupat
+PSHOP_AIM_AT_BLOCK: §cSinun täytyy valita palikka jonka päälle kauppa asetetaan.
+PSHOP_MUST_HAVE_CLAIM: §cKaupan pitää olla sinun omistamallasi suoja-alueella.
+PSHOP_CANT_ADD_SHOP_HERE: §cEi voida asettaa kauppaa tähän.
+PSHOP_CREATED: §fKauppa luotu!
+SHOP_BUY_MSG: Ostit {0}x {1}§r hintaan §a{2}
+SHOP_BUY_BOOST: Ostit {0}x §e{1} ({2} minuttia)
+SHOP_SELL_NOT_ENOUGH_ITEMS: §cSinulla on vain {0}x {1}
+SHOP_SOLD_MSG: Myit {0}x {1} §rhintaan §a{2}
+SHOP_NO_ITEMS: Sinulla ei ole yhtään esineitä myytäväksi.
+SHOP_BUY_MENU_TITLE: Osta tämä esine
+SHOP_SELL_MENU_TITLE: Myy esineitä
+CLAN_SPEC_REQ_TIMEOUT: §b{0} §cei hyväksynyt katselupyyntöäsi ajoissa.
+REWARDS: Palkinnot
+SHOP: §bKauppa
+SHOP_SELL_HAND_NOT_FOUND: §cSinun täytyy pitää myytävää esinettä kädessäsi!
+SHOP_ITEM_NOT_FOR_SALE: §cTämä esine ei ole tällä hetkellä myytävänä.
+SHOP_ITEM_UNMARKETABLE: §cTätä esinettä ei voida myydä kaupalle.
+SHOP_MERCHANT_TITLE: Kauppias (Lisää esineitä & Sulje myydäksesi)
+EVENTS: §aTapahtumat
+REWARDS_NONE: §cSinulla ei ole yhtään palkintoja.
+REWARDS_GUI_TITLE: Palkinnot
+PSHOP_MAX_SHOPS_REACHED: §cSinulla voi olla korkeintaan §e{0}§c kauppaa.
+PSHOP_PLAYER_HAS_NONE: §cEt ole luonut vielä yhtään kauppaa! Luo kauppa kirjoittamalla
+  §b/pshop create§c.
+PSHOP_FOUND_NONE: §cTämän nimistä kauppaa ei löytynyt.
+PSHOP_MANAGE_SHOPS: Hallitse kauppojasi
+PSHOP_MANAGE_SHOP_LOC: '/n§7▎ §eSijainti: ({0},{1},{2})'
+PSHOP_WITHDREW_ALL_SUCCESS: §6Onnistuneesti nostettiin §a{0}§6 §e{1}§6 kaupasta.
+VAULT_INVALID_CHARS: §cHolvin nimi voi sisältää vain kirjaimia A-Z ja numeroita 0-9.
+VAULT_MAX_REACHED: '§cVoit luoda vain {0} holvia sinun nykyisellä rankillasi. '
+VAULT_EMPTY_FIRST: §cOle hyvä ja tyhjennä holvi ennen kuin poistat sen.
+VAULT_DELETED: §cHolvi poistettu.
+VAULT_RENAMED: §aHolvin nimi on nyt {0}
+TRADE_NO_REQUEST: §cTämä pelaaja ei ole lähettänyt sinulle vaihtotarjousta.
+TRADE_CANT_TRADE_WITH_SELF: §cEt voi vaihtaa tavaroita itsesi kanssa!
+TRADE_ALREADY_OPEN: §cOlet jo vaihtokaupassa jonkun kanssa. Kirjoita §e/trade open§c
+  avataksesi vaihtokauppa-ikkunan.
+TRADE_REQ_TIMEOUT: '{0} §cVaihtotarjous pelaajan §7{1}§c kanssa vanheni.'
+TRADE_REQ_SENT: §7Vaihtotarjous lähetetty!
+TRADE_REQ_RECV_LINE1: '§b{0} §7lähetti sinulle vaihtotarjouksen. Avaa vaihtotarjous
+  napsauttamalla '
+TRADE_REQ_RECV_LINE2: ' §7tai kirjoittamalla §b/trade accept {0}§7.'
+TRADE_REQ_RECV_LINE3: §7Avaa vaihtotarjous
+TRADE_REQ_RECV_LINK: /trade accept {0}
+TRADE_NONE_OPEN: §cSinulla ei ole aukinaisia vaihtotarjouksia.
+TRADE_EXPIRY_MSG: '§bVaihtotarjous vanhenee: §7{0}'
+TRADE_UPON_EXPIRY: §7Vaihtotarjouksen vanhetessa asetetut esineet palautetaan omistajilleen.
+TRADE_CANCEL: §cPeru tarjous
+TRADE_CONFIRM: §aVahvista tarjous
+TRADE_CANCEL_LORE: §7Peru tarjous napsauttamalla.
+TRADE_CONFIRM_LORE: §7Pelaajan §e{0} §7pitää painaa tätä nappia suorittaakseen kaupan.
+TRADE_NOT_READY: '§a{0}: §cEi valmis'
+TRADE_READY: '§a{0}: §aValmis'
+TRADE_ACCEPT_LORE: §7Hyväksy kauppa napsauttamalla.
+TRADE_EXPIRED: §cTarjous on vanhentunut. Esineet ovat palautettu omistajilleen.
+TRADE_GET_BACK_TO_VIEW: §bAvaa vaihtotarjous uudelleen kirjoittamalla §a/trade open
+TRADE_CANCELLED: §e{0} §con peruuttanut kaupan.
+TRADE_COMPLETED: Kauppa tehty!
+TRADE_LOCKED: §cSinä tai {0} on jo lukinneet heidän tarjouksen.
+BOOST_RECEIVED: §7Sait §a{0} §7(§b{1}§7 minuuttia)
+BOOST_EXPIRED: §cSinun §7{0}§c on vanhentunut.
+GRAVES: Haudat
+BOOSTS: §2Boostit
+GRAVE_EXPIRED: §cHautasi sijainnissa §bX:§e{0},§bY:§e{1},§bZ:§e{2} §con vanhentunut.
+GRAVES_MAX_REACHED: §cSinulla voi olla vain {0} hauta(a).
+GRAVES_CANT_PLACE_HERE: §cHautaa ei voida tehdä tähän.
+GRAVE_LOC: '§7Haudan sijainti: §bX:§e{0}, §bX:§e{1}, §bX:§e{2}'
+GRAVES_SEE_ALL: §7Kirjoita §b/graves§7 nähdäksesi kaikki hautasi.
+GRAVE_HOLO_TEXT: §e{0}'s hauta
+GRAVE_OPEN_TIP: §aHiivi ja lyö avataksesi!
+GRAVSE_NO_GRAVES: §cSinulla ei ole hautoja.
+GRAVES_INFO_LINE1: '§7Hautasi: '
+GRAVE_EXPIRES_IN: '§cVanhenee: '
+DATE_DAY: ' päivä '
+DATE_DAYS: ' päivää '
+DATE_HOUR: ' tunti '
+DATE_HOURS: ' tuntia '
+DATE_MINUTE: ' minuutti'
+DATE_MINUTES: ' minuuttia'
+END_OF_LIST: §7Listan loppu.
+TWEAKS_REQ_FOR_NIGHT_SKIP: §3%d§f/§3%d§f pelaajaa on nukkumassa
+TWEAKS_SKIPPING_NIGHT: §3Ohitetaan yö...
+TWEAKS_NIGHT_SKIPPED: §3Yö on ohitettu.
+CLAIMFLY_OUT_OF_BOUNDS: §cLensit suoja-aluesi ulkopuolelle.
+CLAIMFLY_NO_PVP: §cEt voi satuttaa muita pelaajia kun olet lennossa!
+SILKSPAWNER_SPAWNS_TYPE: §eLuo §e§n{0}
+SILKSPAWNER_ITEM_NAME: '{0} §eSpawner'
+HC_TP_NOT_ALLOWED: §cTeleportaatio ei ole sallittu hardcore maailmassa.
+HC_YOU_DIED: §4Kuolit
+HC_CANT_JOIN_ANYMORE: §cEt voi liittyä HC maailmaan enää.
+HC_PREFIX: §cHardcore World §7» §4
+HC_PLAYER_DIED_ANNOUNCE: §c{0} Kuoli.
+GENERAL_COOLDOWN: §cEt voi käyttää tätä vielä {0} sekuntiin.
+TWEAKS_PORTAL_UNFINISHED: §cPortaalisi ei ole valmis.
+TWEAKS_MIN_OBSIDIAN: §cPortaalissasi on oltava vähintään 10 obsidiaanipalikkaa.
+TWEAKS_MAX_OBSIDIAN: §cPortaalissasi voi olla korkeintaan 60 obsidiaanipalikka.
+TWEAKS_PORTALS: §5Portaalit
+PLAYER_GUARD: Pelaajansuoja
+PLAYER_GUARD_PVP_NOT_ENABLED: §cSinulla ei ole PvP päällä!
+PLAYER_GUARD_PLAYER_NO_PVP: §cPelaajalla §e{0}§c ei ole PvP päällä!
+PLAYER_GUARD_CANT_USE_COMMAND_IN_PVP: §cEt voi käyttää tätä komentoa taistelussa.
+ENABLED: §cPäällä
+DISABLED: §aPois päältä
+PLAYER_GUARD_PVP_STATUS: §3Sinulla on tällä hetkellä PvP {0}§3. Vaihda se kirjoittamalla
+  §b/pvp
+PLAYER_GUARD_PVP_SWITCH_CD: §cVoit vaihtaa taas PvP tilasi {0} sekunnin kuluttua
+PLAYER_GUARD_TOGGLE_PVP: '§3PvP on nyt: §7{0}'
+SHOP_SELL_CONTENTS: §7Myit §e{0}§7 esinettä hintaan §a{1}
+SHOP_SELL_CONTENTS_NOT_FOR_SALE: '§c§lSeuraavat esineet eivät ole vielä myytävissä: '
+SHOP_SELL_CONTENT_NO_SELL_TAG: ' §c(Esine ei ole myytävä)'
+SHOP_VILLAGER_UNMARKETABLE_LORE: /n§7§oEsinettä ei voida myydä kaupalle.
+SHOP_BUY_LORE: '§7▎ Osta: §a{0}/n/n§b§oHiiren vasen painike: Osta'
+SHOP_BUY_SELL_LORE: '§7▎ Osta: §a{0}/n§7▎ Myy: §a{1}/n/n§b§oHiiren vasen painike:
+  Osta /n§3§oHiiren oikea painike: Myy'
+SHOP_SELL_LORE: '§7▎ Myy: §a{0}/n/n§3§oHiiren oikea painike: Myy'
